@@ -49,7 +49,7 @@ update the DH parameters of the link configuration and end effector configuratio
 
 ### SIMULATION 
 
- ![OUTPUT](./q1.png)
+ ![OUTPUT](./e.png)
  ![OUTPUT](./k2.png)
  
 
